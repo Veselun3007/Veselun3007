@@ -4,7 +4,7 @@
 
 ---
 
-## I am a C# Back-End Developer with experience in building scalable applications.
+## I am a C# Back-End Developer with some experience in building scalable applications.
 
 #### Technologies I've worked with:
 <div>
