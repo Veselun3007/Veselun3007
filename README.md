@@ -6,28 +6,42 @@
 
 ## I am a C# Back-End Developer with some experience in building scalable applications.
 
-#### Technologies I've worked with:
+### Technologies I've worked with:
+
+---
+
 <div>
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mongodb,aws" alt="C#, .NET, PostgreSQL, MongoDB, AWS" />
+    <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   </a>
 </div>
 
-#### Technologies I'm familiar with:
+### Technologies I'm familiar with:
+
+---
+
 <div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=redis,html,css,bootstrap" alt="Redis, HTML, CSS, Bootstrap" />
   </a>
 </div>
 
-#### Version Control and Development Tools:
+### Version Control and Development Tools:
+
+---
+
 <div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,visualstudio,docker" alt="Git, GitHub, Visual Studio, Docker" />
   </a>
 </div>
 
-#### Operating Systems:
+### Operating Systems:
+
+---
+
 <div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux" alt="Windows, Linux" />
