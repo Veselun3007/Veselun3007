@@ -1,7 +1,5 @@
 <div style="width: 100%;"><img src="header.svg" style="width: 100%;" alt="Header image"></div>
 
----
-
  I am a C# .NET Back-End Developer with some experience in building scalable applications.
 
 ### Technologies I've worked with:
