@@ -10,39 +10,39 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="80" height="80" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="60" height="60" />
 </div>
 
 ### Technologies I'm familiar with:
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="80" height="80" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="60" height="60" />
 </div>
 
 ### Version Control and Development Tools:
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="80" height="80" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60" height="60" />
 </div>
 
 ### Operating Systems:
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="80" height="80" />
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" height="60" />
 </div>
 
 
