@@ -1,7 +1,4 @@
-<div style="width: 100%;">
-  <img src="header.svg" style="width: 100%;" alt="Header image">
-</div>
-
+<div style="width: 100%;"><img src="header.svg" style="width: 100%;" alt="Header image"></div>
 ---
 
  I am a C# .NET Back-End Developer with some experience in building scalable applications.
@@ -9,7 +6,7 @@
 ### Technologies I've worked with:
 ---
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="60" height="60" />
   <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="60" height="60" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" height="60" />
@@ -19,7 +16,7 @@
 ### Technologies I'm familiar with:
 ---
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="60" height="60" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60" />
@@ -30,7 +27,7 @@
 ### Version Control and Development Tools:
 ---
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60" />
   <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="60" height="60" />
@@ -40,17 +37,15 @@
 ### Operating Systems:
 ---
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="60" height="60" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" height="60" />
 </div>
 
-
-
 <details closed>
   <summary><h3>Statistics</h3></summary>
     <div align="center"">
-      <table style="width: 100%; text-align: center;">
+      <table id="example-table">
       <tr>
         <td>
           <img src="https://github-readme-stats.vercel.app/api?username=veselun3007&show_icons=true&theme=radical" alt="GitHub stats" style="height: 200px; width: auto;"/>
