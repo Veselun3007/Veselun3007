@@ -4,7 +4,37 @@
 
 ---
 
-## I am a C# Back-End Developer with some experience in building scalable applications.
+
+
+```cs
+/// <summary>
+/// I am a C# .NET Back-End Developer with some experience in building scalable applications.
+/// </summary>
+public class Profile
+{
+    public List<string> Code { get; set; } = new List<string> { "C#", "SQL" };
+    public List<string> Tools { get; set; } = new List<string> 
+    { 
+        "ASP.NET Core", "WPF", "Ocelot API Gateway", "Dapper", "Entity Framework", "AutoMapper", 
+        "React", "Docker", "GitHub Actions"
+    };
+    public List<string> Architecture { get; set; } = new List<string> { "Microservices" };
+    public List<string> Testing { get; set; } = new List<string> { "xUnit", "Moq", "Testcontainers" };
+    public List<string> Databases { get; set; } = new List<string> { "PostgreSQL", "MS SQL", "Redis", "MongoDB" };
+    
+    public DevOps DevOps { get; set; } = new DevOps
+    {
+        CiCd = "CI/CD (GitHub Actions)",
+        Containerization = "Docker, Docker-Compose",
+        Cloud = "AWS (EC2, SQS, Cognito, Lambdas, System Manager)"
+    };
+
+    public TechCommunities TechCommunities { get; set; } = new TechCommunities
+    {
+        Contributor = "Open Source Projects"
+    };
+}
+```
 
 ### Technologies I've worked with:
 
