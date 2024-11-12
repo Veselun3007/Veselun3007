@@ -9,72 +9,46 @@
 
 ## Skills
 
-### Common Skills
+#### Common Skills
 - **`OOP`**  **`SOLID Principles`**  **`REST`** **`Web Sockets`**
 - **`Git`**  **`GitHub`**  **`Agile`**  **`Scrum`**
 
-### .NET Framework
-- **Languages:**
-  - **`C# (.NET Framework 4.7, .NET Core 8)`**
+#### .NET Framework
+- **Languages:** **`C# (.NET Framework 4.7, .NET Core 8)`** **`SQL`**
 - **Frameworks & Tools:**
   - **`ASP.NET Core`** **`WPF`** **`Ocelot API Gateway`** **`SignalR`**
   - **`ADO.NET`** **`Dapper`** **`Entity Framework`** **`AutoMapper`**
  
-### Software Architecture & Design Patterns
-- **Architectures:**
-  - **`Monolithic`** **`Microservices`** **`Three-layer`** **`Three-tier`**
-- **Patterns:**
-  - **`MVVM`** **`MVC`**
-- **Software design approaches**
-  - **`DDD`** **`Clean Architecture`**
+#### Software Architecture & Design Patterns
+- **Architectures:** **`Monolithic`** **`Microservices`** **`Three-layer`** **`Three-tier`**
+- **Patterns:** **`MVVM`** **`MVC`**
+- **Software design approaches** **`DDD`** **`Clean Architecture`**
 
-### Testing
+#### Testing
 - **`xUnit`** **`Moq`** **`Testcontainers SDK for Integration Tests`**
 
-### Databases
-- **Relational:**
-  - **`PostgreSQL`** **`MS SQL`** 
-- **NoSQL:**
-  - **`Redis`** **`MongoDB`** 
+#### Databases
+- **Relational:** **`PostgreSQL`** **`MS SQL`** 
+- **NoSQL:** **`Redis`** **`MongoDB`** 
 
-### DevOps
-- **Common:**
-  - **`CI/CD (GitHub Actions)`** **`Docker`** **`Docker Compose`**
-- **AWS Services:**
-  - **`EC2`** **`RDS`** **`SQS`** **`Cognito`** **`Lambdas`** **`Systems Manager`** **`S3`** **` Identity and Access Management`**
+#### DevOps
+- **Common:** **`CI/CD (GitHub Actions)`** **`Docker`** **`Docker Compose`**
+- **AWS Services:** **`EC2`** **`RDS`** **`SQS`** **`Cognito`** **`Lambdas`** **`Systems Manager`** **`S3`** **` Identity and Access Management`**
 
-### Frontend (Familiar)
+#### Frontend (Familiar)
 - **`HTML`** **`CSS`** **`Bootstrap`** **`TS`** **`React`**
 ---
 
 <details closed>
   <summary><h3>Statistics</h3></summary>
-    <div align="center"">
-      <table id="example-table">
-      <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=veselun3007&show_icons=true&theme=radical" alt="GitHub stats" style="height: 200px; width: auto;"/>
-        </td>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veselun3007&theme=radical&layout=compact" alt="Top languages" style="height: 200px; width: auto;"/>
-        </td>
-      </tr>
-   </table>
+  <div align="center"">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=veselun3007&amp;show_icons=true&amp;theme=radical" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=veselun3007&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;theme=radical" />
   </div>
+  
+  ---
+  
+  > **Note**  
+  > I haven't contributed much to the TypeScript code; the statistics reflect work from a joint project where my colleague handled the frontend development.
+
 </details>
-
-
-<!--
-**Veselun3007/Veselun3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
