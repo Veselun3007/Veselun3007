@@ -58,5 +58,8 @@
   
   > **Note**  
   > I haven't contributed much to the TypeScript code; the statistics reflect work from a joint project where my colleague handled the frontend development.
+ 
+  > **Important**  
+  > My statistics may not be impressive just yet, but I will improve them.
 
 </details>
