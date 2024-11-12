@@ -1,45 +1,51 @@
 <div style="width: 100%;"><img src="header.svg" style="width: 100%;" alt="Header image"></div>
 
- I am a C# .NET Back-End Developer with some experience in building scalable applications.
-
-### Technologies I've worked with:
+---
+```cs
+// I'm a C# .NET Back-End Developer focused on building scalable applications. I’m excited to
+// apply my skills, grow professionally, and take on new challenges in back-end development.
+```
 ---
 
-<div>
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="60" height="60" />
-</div>
+## 🚀 Skills
 
-### Technologies I'm familiar with:
+### 🖥 Common Skills
+- **`OOP`**  **`SOLID Principles`**  **`REST`** **`Web Sockets`**
+- **`Git`**  **`GitHub`**  **`Agile`**  **`Scrum`**
+
+### 💻 .NET Framework
+- **Languages:**
+  - **`C# (.NET Framework 4.7, .NET Core 8)`**
+- **Frameworks & Tools:**
+  - **`ASP.NET Core`** **`WPF`** **`Ocelot API Gateway`** **`SignalR`**
+  - **`ADO.NET`** **`Dapper`** **`Entity Framework`** **`AutoMapper`**
+ 
+### 🏗 Software Architecture & Design Patterns
+- **Architectures:**
+  - **`Monolithic`** **`Microservices`** **`Three-layer`** **`Three-tier`**
+- **Patterns:**
+  - **`MVVM`** **`MVC`**
+- **Software design approaches**
+  - **`DDD`** **`Clean Architecture`**
+
+### 🧪 Testing
+- **`xUnit`** **`Moq`** **`Testcontainers SDK for Integration Tests`**
+
+### 🗄 Databases
+- **Relational:**
+  - **`PostgreSQL`** **`MS SQL`** 
+- **NoSQL:**
+  - **`Redis`** **`MongoDB`** 
+
+### 🛠 DevOps
+- **Common:**
+  - **`CI/CD (GitHub Actions)`** **`Docker`** **`Docker Compose`**
+- **AWS Services:**
+  - **`EC2`** **`RDS`** **`SQS`** **`Cognito`** **`Lambdas`** **`Systems Manager`** **`S3`** **` Identity and Access Management`**
+
+### 🎨 Frontend (Familiar)
+- **`HTML`** **`CSS`** **`Bootstrap`** **`TS`** **`React`**
 ---
-
-<div>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="60" height="60" />
-</div>
-
-### Version Control and Development Tools:
----
-
-<div>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60" height="60" />
-</div>
-
-### Operating Systems:
----
-
-<div>
-  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" height="60" />
-</div>
 
 <details closed>
   <summary><h3>Statistics</h3></summary>
