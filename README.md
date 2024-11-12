@@ -7,20 +7,20 @@
 ```
 ---
 
-## 🚀 Skills
+## Skills
 
 ### 🖥 Common Skills
 - **`OOP`**  **`SOLID Principles`**  **`REST`** **`Web Sockets`**
 - **`Git`**  **`GitHub`**  **`Agile`**  **`Scrum`**
 
-### 💻 .NET Framework
+### .NET Framework
 - **Languages:**
   - **`C# (.NET Framework 4.7, .NET Core 8)`**
 - **Frameworks & Tools:**
   - **`ASP.NET Core`** **`WPF`** **`Ocelot API Gateway`** **`SignalR`**
   - **`ADO.NET`** **`Dapper`** **`Entity Framework`** **`AutoMapper`**
  
-### 🏗 Software Architecture & Design Patterns
+### Software Architecture & Design Patterns
 - **Architectures:**
   - **`Monolithic`** **`Microservices`** **`Three-layer`** **`Three-tier`**
 - **Patterns:**
@@ -28,22 +28,22 @@
 - **Software design approaches**
   - **`DDD`** **`Clean Architecture`**
 
-### 🧪 Testing
+### Testing
 - **`xUnit`** **`Moq`** **`Testcontainers SDK for Integration Tests`**
 
-### 🗄 Databases
+### Databases
 - **Relational:**
   - **`PostgreSQL`** **`MS SQL`** 
 - **NoSQL:**
   - **`Redis`** **`MongoDB`** 
 
-### 🛠 DevOps
+### DevOps
 - **Common:**
   - **`CI/CD (GitHub Actions)`** **`Docker`** **`Docker Compose`**
 - **AWS Services:**
   - **`EC2`** **`RDS`** **`SQS`** **`Cognito`** **`Lambdas`** **`Systems Manager`** **`S3`** **` Identity and Access Management`**
 
-### 🎨 Frontend (Familiar)
+### Frontend (Familiar)
 - **`HTML`** **`CSS`** **`Bootstrap`** **`TS`** **`React`**
 ---
 
