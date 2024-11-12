@@ -9,7 +9,7 @@
 
 ## Skills
 
-### 🖥 Common Skills
+### Common Skills
 - **`OOP`**  **`SOLID Principles`**  **`REST`** **`Web Sockets`**
 - **`Git`**  **`GitHub`**  **`Agile`**  **`Scrum`**
 
