@@ -14,26 +14,34 @@
 - **`Git`**  **`GitHub`**  **`Agile`**  **`Scrum`**
 
 #### .NET Framework
-- **Languages:** **`C# (.NET Framework 4.7, .NET Core 8)`** **`SQL`**
+- **Languages:**
+  - **`C# (.NET Framework 4.7, .NET Core 8)`** **`SQL`**
 - **Frameworks & Tools:**
   - **`ASP.NET Core`** **`WPF`** **`Ocelot API Gateway`** **`SignalR`**
   - **`ADO.NET`** **`Dapper`** **`Entity Framework`** **`AutoMapper`**
  
 #### Software Architecture & Design Patterns
-- **Architectures:** **`Monolithic`** **`Microservices`** **`Three-layer`** **`Three-tier`**
-- **Patterns:** **`MVVM`** **`MVC`**
-- **Software design approaches** **`DDD`** **`Clean Architecture`**
+- **Architectures:**
+  - **`Monolithic`** **`Microservices`** **`Three-layer`** **`Three-tier`**
+- **Patterns:**
+  - **`MVVM`** **`MVC`**
+- **Software design approaches:**
+  - **`DDD`** **`Clean Architecture`**
 
 #### Testing
 - **`xUnit`** **`Moq`** **`Testcontainers SDK for Integration Tests`**
 
 #### Databases
-- **Relational:** **`PostgreSQL`** **`MS SQL`** 
-- **NoSQL:** **`Redis`** **`MongoDB`** 
+- **Relational:**
+  - **`PostgreSQL`** **`MS SQL`** 
+- **NoSQL:**
+  - **`Redis`** **`MongoDB`** 
 
 #### DevOps
-- **Common:** **`CI/CD (GitHub Actions)`** **`Docker`** **`Docker Compose`**
-- **AWS Services:** **`EC2`** **`RDS`** **`SQS`** **`Cognito`** **`Lambdas`** **`Systems Manager`** **`S3`** **` Identity and Access Management`**
+- **Common:**
+  - **`CI/CD (GitHub Actions)`** **`Docker`** **`Docker Compose`**
+- **AWS Services:**
+  - **`EC2`** **`RDS`** **`SQS`** **`Cognito`** **`Lambdas`** **`Systems Manager`** **`S3`** **` Identity and Access Management`**
 
 #### Frontend (Familiar)
 - **`HTML`** **`CSS`** **`Bootstrap`** **`TS`** **`React`**
