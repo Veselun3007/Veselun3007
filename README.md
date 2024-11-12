@@ -20,12 +20,12 @@
   - **`ASP.NET Core`** **`WPF`** **`Ocelot API Gateway`** **`SignalR`**
   - **`ADO.NET`** **`Dapper`** **`Entity Framework`** **`AutoMapper`**
  
-#### Software Architecture & Design Patterns
+#### Software Architecture & Architectural patterns & Software design approaches
 - **Architectures:**
   - **`Monolithic`** **`Microservices`** **`Three-layer`** **`Three-tier`**
 - **Patterns:**
   - **`MVVM`** **`MVC`**
-- **Software design approaches:**
+- **Approaches:**
   - **`DDD`** **`Clean Architecture`**
 
 #### Testing
