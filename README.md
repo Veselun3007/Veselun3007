@@ -50,8 +50,12 @@
 <details closed>
   <summary><h3>Statistics</h3></summary>
   <div align="center"">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=veselun3007&amp;show_icons=true&amp;theme=radical" />
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=veselun3007&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;theme=radical" />
+    <a href="https://github.com/veselun3007/github-readme-stats">
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=veselun3007&amp;show_icons=true&amp;theme=radical" />
+    </a>
+    <a href="https://github.com/veselun3007/github-readme-stats">
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=veselun3007&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;theme=radical" />
+    </a>
   </div>
   
   ---
