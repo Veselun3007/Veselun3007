@@ -15,14 +15,14 @@
 
 #### .NET Framework
 - **Languages:**
-  - **`C# (.NET Framework 4.7, .NET Core 8)`** **`SQL`**
+  - **`C# (.NET Framework 4.7, .NET Core 6, .NET Core 8)`** **`SQL`**
 - **Frameworks & Tools:**
   - **`ASP.NET Core`** **`WPF`** **`Ocelot API Gateway`** **`SignalR`**
   - **`ADO.NET`** **`Dapper`** **`Entity Framework`** **`AutoMapper`**
  
 #### Software Architecture & Architectural patterns & Software design approaches
 - **Architectures:**
-  - **`Monolithic`** **`Microservices`** **`Three-layer`** **`Three-tier`**
+  - **`Monolithic`** **`Microservices`** **`Three-tier`**
 - **Patterns:**
   - **`MVVM`** **`MVC`**
 - **Approaches:**
