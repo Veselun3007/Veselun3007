@@ -52,3 +52,8 @@ Completed a personalized mentorship program focused on:
 - **`ASP .NET`**.
 Including hands-on development, code reviews, and architectural guidance.
 
+---
+
+## Certificates
+
+- **[Ultimate AWS Certified Solutions Architect Associate 2025](https://ude.my/UC-106a22df-fa3f-4ef0-8876-59a7ec7dd52d)**
