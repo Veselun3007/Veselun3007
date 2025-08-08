@@ -50,6 +50,7 @@ Completed a personalized mentorship program focused on:
 - **`Software design and architecture`**;
 - **`Database and EF Core`**;
 - **`ASP .NET`**.
+  
 Including hands-on development, code reviews, and architectural guidance.
 
 ---
