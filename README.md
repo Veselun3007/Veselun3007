@@ -40,7 +40,7 @@
   - **`EC2`** **`RDS`** **`SQS`** **`Cognito`** **`Systems Manager`** **`S3`** **` Identity and Access Management`**
 
 #### Development Tools
-- **`Visual Studio 2022`** **`Docker Desktop`** **`DBeaver`** **`Postman`** **`Swagger`**
+- **`Visual Studio`** **`Rider`** **`Docker Desktop`** **`DBeaver`** **`Postman`** **`Swagger`** **`Trello`**
 
 ---
 
